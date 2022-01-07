@@ -2,6 +2,7 @@
 
 - I'm a full-stack web developer
 - I have worked with Javascript; specifically MERN stack (MSSQL/MySQL, Express, React and Node)
+- I have also worked with python in machine learning and Java in both desktop and mobile applicaion development.
 - Coming soon: My portfolio
 - Hit me up on mainajoan12@gmail.com
 - 👩‍💻 I love anything to do with tech!
