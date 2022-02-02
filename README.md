@@ -6,7 +6,7 @@
 - Coming soon: My portfolio
 - Hit me up on mainajoan12@gmail.com
 - 👩‍💻 I love anything to do with tech!
-- 🎆 I am currently a software development intern at [https://thejitu.com/]
+- 🎆 I freelance and use all opportunities I get to learn
 
 ## Fun 😊
 
