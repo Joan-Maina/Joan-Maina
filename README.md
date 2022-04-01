@@ -1,4 +1,5 @@
-## Hi there, I'm Joan Maina
+## Hi there, 
+- I'm [Joan](https://www.linkedin.com/in/joan-maina-8192a9212/) Maina
 
 - I'm a web developer
 - I work with Javascript; specifically React and Angular for front-end and Node for back-end
