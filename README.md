@@ -1,7 +1,7 @@
 ## Hi there, 
-- I'm [Joan](https://www.linkedin.com/in/joan-maina-8192a9212/) Maina
+-   My name is [Joan](https://www.linkedin.com/in/joan-maina-8192a9212/) Wanini Maina
 
-- I'm a web developer
+- I am a web developer
 - I work with Javascript; specifically React and Angular for front-end and Node for back-end
 - I love woring with data, I use SQL: MSSQL, MySQL and postgresql 
 - I work with python in machine learning 
