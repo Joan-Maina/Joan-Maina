@@ -1,16 +1,17 @@
 ## Hi there, I'm Joan Maina
 
-- I'm a full-stack web developer
-- I have worked with Javascript; specifically MERN stack (MSSQL/MySQL, Express, React and Node)
-- I have also worked with python in machine learning and Java in both desktop and mobile applicaion development.
+- I'm a web developer
+- I work with Javascript; specifically React and Angular for front-end and Node for back-end
+- I love woring with data, I use SQL: MSSQL, MySQL and postgresql 
+- I work with python in machine learning 
 - Coming soon: My portfolio
 - Hit me up on mainajoan12@gmail.com
 - 👩‍💻 I love anything to do with tech!
-- 🎆 I freelance and use all opportunities I get to learn
+- 🎆 I am currently working at [thejitu.com](https://thejitu.com/) and use all opportunities I get to learn
 
 ## Fun 😊
 
-[<img alt="Coding for life" width="500px" src="https://images.unsplash.com/photo-1546900703-cf06143d1239?ixlib=rb-1.2.1&ixid=mnwxmja3fdb8mhxwag90by1wywdlfhx8fgvufdb8fhx8&auto=format&fit=crop&w=1450&q=80"/>](https://www.google.com/)
+[<img alt="Coding for life" width="500px" src="https://thejitu.com/wp-content/uploads/2021/10/Joan-Maina.jpg"/>](https://twitter.com/MainaWanini)
 
 - 🔥 2022 Goals: Expand my skills and knowledge in software development
 - 🛼 Fun fact: I love reading, skating and swimming
