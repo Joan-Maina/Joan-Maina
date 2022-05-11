@@ -11,7 +11,5 @@
 
 ## Fun 😊
 
-[<img alt="Coding for life" width="500px" src="https://thejitu.com/wp-content/uploads/2021/10/Joan-Maina.jpg"/>](https://twitter.com/MainaWanini)
-
 - 🔥 2022 Goals: Expand my skills and knowledge in software development
 - 🛼 Fun fact: I love reading, skating and swimming
