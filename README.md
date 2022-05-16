@@ -3,6 +3,6 @@
 - Go to my porfolio (https://angular-portfolio-rust.vercel.app/)
 
 - 😊I love working with Javascript
-- I love woring with data.
+- I love working with data.
 
 - 🔥Fun fact: I love reading, skating and swimming
